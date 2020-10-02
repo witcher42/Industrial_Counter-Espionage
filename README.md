@@ -8,11 +8,11 @@
   
 ![title](srcs/steganography.png)  
    
-Stegano_Slack:  
-Stegano_Noise:  
-Torpedo_Decoy:   
+Stegano_Slack.py:  
+Stegano_Noise.py:  
+Torpedo_Decoy.py:   
 GAN:  
 -----  
 System #1: (Server)WSL Kali  
 System #2: (Client)Windows 10  
-System #3: (client)WSL Ubuntu  
+System #3: (Client)WSL Ubuntu  
