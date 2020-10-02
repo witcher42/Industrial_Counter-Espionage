@@ -6,8 +6,13 @@
   
 4.15 총선 부정선거 의혹을 통해 제기된 정보로 재구성한 ‘정보통신산업에 침투한 중국 공산당의 사이버 공작 시나리오’를 살펴본다. 이후 산업스파이의 인적·물리적 공작 기술들과 실제 사례들을 하나씩 소개한다. 후반부에는 방첩 기술이 소개되어있다.
   
-+  
+![title](srcs/steganography.png)  
+   
 Stegano_Slack:  
 Stegano_Noise:  
 Torpedo_Decoy:   
 GAN:  
+-----  
+System #1: (Server)WSL Kali  
+System #2: (Client)Windows 10  
+System #3: (client)WSL Ubuntu  
