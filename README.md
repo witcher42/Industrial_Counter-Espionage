@@ -2,6 +2,8 @@
 >> *김일기 국가안보전략연구소 선임연구원* 
 ## National Industries Cyber Infiltration Scenario and Full Spectrum Industrial Counter-Espionage  
 This paper mainly talks about ‘China Communist Party Infiltration on Korean Telecommunication Industry’, which is reassembled by the frauds story in the 4.15 Parliamentary Election. And then we will introduce the Sabotage Technics and Cyber Counter-Intelligence.  
+  
+youtube🎬🎥 https://youtu.be/KppZpz0vWCM  
 ## 국가기간산업 사이버 침투 시나리오 및 전방향 산업 방첩
 **[2020 KAIS 산업보안논문 경진대회] 특별공모 신안보위협과 산업보안의 역할변화**  
   
@@ -12,10 +14,10 @@ This paper mainly talks about ‘China Communist Party Infiltration on Korean Te
 Stegano_Slack.py:  
 `python Stegano_Slack.py -K CipyherKey -A OutputImage.jfif -I InputImage.jfif -S Industrial Secret`  
 Stegano_Noise.py:  
-``python Stegano_Noise.py -N 007.jpg -I 700.jpg -S XORImage.jpg -C OutputImage.jpg ``  
+`python Stegano_Noise.py -N 007.jpg -I 700.jpg -S XORImage.jpg -C OutputImage.jpg`  
 Torpedo_Decoy.py:   
-``sudo python Torpedo_Decoy.py 502``  
-``nc [ip] 502``  
+`sudo python Torpedo_Decoy.py 502`   
+`nc [ip] 502`  
 GAN:  
 -----  
 System #1: (Server)WSL Kali  
